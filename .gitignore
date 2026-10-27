@@ -1,0 +1,28 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Runtime Cache & Generated Large Data (Cache is generated on first run in ~2s)
+data/cache/
+*.pkl
+*.bin
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+component,spec_type,value,unit
+Lower Arm Forward And Rearward Nuts,Torque,350,Nm
+Lower Ball Joint Nut,Torque,175,Nm
+Shock Absorber Lower Nuts,Torque,90,Nm
+Shock Absorber Lower Nut (Svt Raptor),Torque,550,Nm

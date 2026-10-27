@@ -1,0 +1,14 @@
+[
+  {
+    "component": "Tie-Rod End Nut",
+    "spec_type": "Torque",
+    "value": "115",
+    "unit": "Nm"
+  },
+  {
+    "component": "Shock Rod Nut",
+    "spec_type": "Torque",
+    "value": "55",
+    "unit": "Nm"
+  }
+]

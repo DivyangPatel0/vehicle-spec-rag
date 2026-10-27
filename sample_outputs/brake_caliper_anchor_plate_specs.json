@@ -1,0 +1,20 @@
+[
+  {
+    "component": "Brake Caliper Anchor Plate Bolts",
+    "spec_type": "Torque",
+    "value": "250",
+    "unit": "Nm"
+  },
+  {
+    "component": "Brake Caliper Flow Bolt",
+    "spec_type": "Torque",
+    "value": "35",
+    "unit": "Nm"
+  },
+  {
+    "component": "Brake Caliper Guide Pin Bolts",
+    "spec_type": "Torque",
+    "value": "37",
+    "unit": "Nm"
+  }
+]

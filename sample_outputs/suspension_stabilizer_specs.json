@@ -1,0 +1,20 @@
+[
+  {
+    "component": "Stabilizer Bar Bracket Nuts",
+    "spec_type": "Torque",
+    "value": "55",
+    "unit": "Nm"
+  },
+  {
+    "component": "Stabilizer Bar Link Nuts",
+    "spec_type": "Torque",
+    "value": "70",
+    "unit": "Nm"
+  },
+  {
+    "component": "Stabilizer Bar Link Nuts (Svt Raptor)",
+    "spec_type": "Torque",
+    "value": "80",
+    "unit": "Nm"
+  }
+]

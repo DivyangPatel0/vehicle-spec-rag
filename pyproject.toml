@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vehicle-specs-extractor"
+version = "1.0.0"
+description = "Automotive Vehicle Specification Extraction Pipeline using RAG and LLMs"
+authors = [{name = "Abhishek Kumar / AI Engineering Candidate"}]
+requires-python = ">=3.10"
+dependencies = [
+    "pymupdf>=1.24.0",
+    "pydantic>=2.7.0",
+    "pandas>=2.2.0",
+    "numpy>=1.26.0",
+    "scikit-learn>=1.4.0",
+    "streamlit>=1.35.0",
+    "pytest>=8.0.0",
+    "tabulate>=0.9.0",
+    "tqdm>=4.66.0"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "-v --tb=short"
+filterwarnings = [
+    "ignore::DeprecationWarning",
+    "ignore::UserWarning"
+]

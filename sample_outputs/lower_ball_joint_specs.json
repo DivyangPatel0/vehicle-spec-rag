@@ -1,0 +1,26 @@
+[
+  {
+    "component": "Lower Arm Forward And Rearward Nuts",
+    "spec_type": "Torque",
+    "value": "350",
+    "unit": "Nm"
+  },
+  {
+    "component": "Lower Ball Joint Nut",
+    "spec_type": "Torque",
+    "value": "175",
+    "unit": "Nm"
+  },
+  {
+    "component": "Shock Absorber Lower Nuts",
+    "spec_type": "Torque",
+    "value": "90",
+    "unit": "Nm"
+  },
+  {
+    "component": "Shock Absorber Lower Nut (Svt Raptor)",
+    "spec_type": "Torque",
+    "value": "550",
+    "unit": "Nm"
+  }
+]
